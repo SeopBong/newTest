@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url    : "https://github.com/SeopBong/newTest.git" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://github.com/SeopBong" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/newTest" # the subpath of your site, e.g. /blog
 
 title      : My First WebSite
